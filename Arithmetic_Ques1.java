@@ -1,14 +1,14 @@
 package java8_Lamda;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 @FunctionalInterface
-interface Arithmetic {
+interface Arithmetic{
 	
 	int operate(int a, int b);
 }
 
-public class Arithmetic_Operations 
+public class Arithmetic_Ques1 
 {
 	
 	    public static void main(String[] args) {
